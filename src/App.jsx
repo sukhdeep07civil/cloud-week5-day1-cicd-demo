@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <div>
-        <h1>CICD React App Version 1</h1>
+        <h1>CICD React App Version 2</h1>
       </div>
     </>
   )
